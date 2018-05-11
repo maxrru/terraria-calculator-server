@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/maxrru/terraria-calculator-server/issues"
   },
-  "homepage": "https://github.com/maxrru/terraria-calculator-server#readme"
+  "homepage": "https://github.com/maxrru/terraria-calculator-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
